@@ -1,7 +1,9 @@
+* {
+  scroll-behavior: smooth;
+}
 body {
   background: #f5d9d5;
   font-family: "Nunito", sans-serif;
-  scroll-behavior: smooth;
 }
 
 .blurb h2 {
@@ -47,6 +49,10 @@ body {
 #headingGroup h1 {
   font-weight: 100;
   font-size: 4rem;
+}
+#ok:hover {
+  box-shadow: -1px 2px 23px -7px rgba(0, 0, 0, 0.75);
+  transition: 500ms;
 }
 
 .navbar.scrolled {
