@@ -6,15 +6,16 @@ body {
   font-family: "Nunito", sans-serif;
 }
 
+
 .blurb h2 {
   color: #ea1c2f;
-  font-weight: 100;
+  font-weight: 300;
   font-size: 2.4rem;
 }
 
 .blurb p {
   color: #f498b8;
-  font-weight: 100;
+  font-weight: 500;
   font-size: 1.125rem;
   line-height: 2;
 }
@@ -31,6 +32,7 @@ body {
 
 #mainNavbar .nav-link {
   color: white;
+  font-weight: 500;
 }
 
 #mainNavbar .nav-link:hover {
@@ -47,8 +49,8 @@ body {
 }
 
 #headingGroup h1 {
-  font-weight: 100;
-  font-size: 3rem;
+  font-weight: 300;
+  font-size: 2.5rem;
 }
 #ok:hover {
   box-shadow: -1px 2px 23px -7px rgba(0, 0, 0, 0.75);
